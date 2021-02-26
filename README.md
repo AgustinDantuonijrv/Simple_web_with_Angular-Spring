@@ -1,1 +1,1 @@
-# Este proyecto muestra una de las implementaciones mas simples posibles para vincular una app realizada en Angular (Ver carpeta "front") y un backend manejado con spring como framework y por ende java como el lenguaje que predomina en el proyecto (ver carpeta "back")
+# Este proyecto muestra una de las implementaciones mas completas de un auth realizado con spring
